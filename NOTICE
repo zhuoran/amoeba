@@ -15,11 +15,12 @@ limitations under the License.
 ================================================================
 Dependencies:
 
-HttpComponents
+Netty
   * LICENSE:
     * http://www.apache.org/licenses/LICENSE-2.0 (Apache License 2.0)
   * HOMEPAGE:
-    * http://hc.apache.org/httpcomponents-client-ga/
+    * http://netty.io/index.html
+
 
 CommonsLogging:
 
