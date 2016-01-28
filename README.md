@@ -1,13 +1,15 @@
 # Amoeba
 
+------
+Amoeba is a simple http server wrappered base on Netty framework
 
-### Amoeba is a simple http server wrappered base on Netty framework!
-Use amoeba to develop the best you are familiar with netty！
+
+
 ================================================================
 Quick Start
 ================================================================
 
-1.Checkout the crawler4j source code
+1.Checkout the amoeba source code
 
 2.Import the source code to eclipse project
 
@@ -20,15 +22,14 @@ Quick Start
 Configuration
 ================================================================
 
-"eventLoopThreads" and "maxContentLength" as default value in amoeba
-
- you can set it as needed
+"eventLoopThreads" and "maxContentLength" as default value in amoeba ,you can set it as needed
 
 ================================================================
 Feature
 ================================================================
 
 1.Support more netty parameter settings
+
 2.Update nettty to last version
 
 ================================================================
